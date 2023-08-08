@@ -38,7 +38,7 @@ function ChatInterface({ onDeleteMessage }) {
         <button type="submit">Send</button>
       </form>
       <br />
-      <a href="/messages">See all messages</a>
+      <a href="/">See all messages</a>
 
       {/* Delete Message Form */}
       <form>
